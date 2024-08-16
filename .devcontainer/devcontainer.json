@@ -11,8 +11,10 @@
 				"mhutchie.git-graph"
 			]
 		}
-	}
+	},
 	// "features": {},
-	// "forwardPorts": [],
+	"forwardPorts": [
+		3000
+	],
 	// "remoteUser": "root"
 }
